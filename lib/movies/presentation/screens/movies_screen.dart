@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:movies_app_clean_architecture/core/services/sevices_locstor.dart';
+import 'package:movies_app_clean_architecture/core/services/sevices_locator.dart';
 import 'package:movies_app_clean_architecture/movies/presentation/components/now_playing_component.dart';
 import 'package:movies_app_clean_architecture/movies/presentation/components/popular_component.dart';
 import 'package:movies_app_clean_architecture/movies/presentation/components/top_rated_component.dart';

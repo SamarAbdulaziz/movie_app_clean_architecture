@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_clean_architecture/core/services/sevices_locstor.dart';
+import 'package:movies_app_clean_architecture/core/services/sevices_locator.dart';
 import 'package:movies_app_clean_architecture/movies/presentation/screens/movies_screen.dart';
-import 'package:movies_app_clean_architecture/movies/presentation/screens/test_screen.dart';
 
 void main() {
   //WidgetsFlutterBinding.ensureInitialized();

@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:movies_app_clean_architecture/core/network/api_constant.dart';
-import 'package:movies_app_clean_architecture/core/services/sevices_locstor.dart';
+import 'package:movies_app_clean_architecture/core/services/sevices_locator.dart';
 import 'package:movies_app_clean_architecture/core/utiles/dummy2.dart';
 import 'package:movies_app_clean_architecture/core/utiles/enums.dart';
 import 'package:movies_app_clean_architecture/movies/domain/entities/geners.dart';
